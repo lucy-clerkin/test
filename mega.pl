@@ -2,5 +2,5 @@
 
 while (1) {
 
-	print "Super mega!\n";
+	print "lucy is super mega!\n";
 } 
